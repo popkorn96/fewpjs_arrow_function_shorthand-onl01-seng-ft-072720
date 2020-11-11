@@ -1,4 +1,4 @@
-describe("index.js", () => {
+describe("index.js", () => { 
   it("has a functional expression called divide", () => {
     expect(divide).to.exist
   })
